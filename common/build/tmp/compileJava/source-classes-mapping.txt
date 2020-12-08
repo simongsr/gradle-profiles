@@ -1,0 +1,2 @@
+com/example/gradleprofiles/Greeting.java
+ com.example.gradleprofiles.Greeting

@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-profiles'
+include 'common'
+include 'core'
+include 'fork'
+
